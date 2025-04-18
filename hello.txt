@@ -5,11 +5,3 @@ ccc
 ddd
 eee
 fff
-ggg
-hhh
-iii
-jjj
-kkk
-ccc
-123456
-789012
